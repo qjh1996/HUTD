@@ -20,7 +20,7 @@ UAV-borne hyperspectral remote sensing has emerged as a promising approach for u
 
 The figure below illustrates the overall pipeline of our method:
 
-![A3](R:\PHD3_1\Paper3写作\TGRS\images\A3.jpg)
+![A3](Figures\A3.jpg)
 
 ## 📊 Dataset
 
