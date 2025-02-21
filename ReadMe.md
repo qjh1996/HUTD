@@ -42,14 +42,14 @@ The source code will be made publicly available upon the acceptance of our paper
 If you find our work helpful, please consider citing:
 
 ```bibtex
-@article{your_paper,
-  title   = {Your Paper Title},
-  author  = {Your Name and Co-authors},
-  journal = {Journal Name},
-  year    = {YYYY},
-  volume  = {XX},
-  pages   = {XX-XX},
-  doi     = {XX.XXXX/XXXXXXX}
+@article{qjhHUTD,
+title={Nearshore Underwater Target Detection Meets UAV-borne Hyperspectral Remote Sensing: A Novel Hybrid-level Contrastive Learning Framework and Benchmark Dataset}, 
+author={Jiahao Qi and Chuanhong Zhou and Xingyue Liu and Chen Chen and Dehui Zhu and Kangcheng Bin and Ping Zhong},
+year={2025},
+eprint={2502.14495},
+archivePrefix={arXiv},
+primaryClass={cs.CV},
+url={https://arxiv.org/abs/2502.14495}, 
 }
 ```
 
