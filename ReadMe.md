@@ -1,4 +1,4 @@
-# R$^{3}$Net: Rejection-Guided Residual Reasoning for Physically Consistent Hyperspectral Underwater Target Detection
+# R<sup>3</sup>Net: Rejection-Guided Residual Reasoning for Physically Consistent Hyperspectral Underwater Target Detection
 
 ------
 
@@ -12,7 +12,7 @@ Hyperspectral underwater target detection (HUTD) is a long-standing challenge du
 
 Conventional methods often rely on **target-centric strategies** (e.g., target injection), but these approaches are fundamentally limited by the **scarcity of target pixels** and the **absence of physical constraints**, leading to unreliable detections.
 
-To address these challenges, we propose **R$^{3}$Net**, a novel **rejection-guided residual reasoning framework**, together with a new benchmark dataset **ATR2-HUTD**.
+To address these challenges, we propose **R<sup>3</sup>Net**, a novel **rejection-guided residual reasoning framework**, together with a new benchmark dataset **ATR2-HUTD**.
 
 ------
 
@@ -40,7 +40,7 @@ To address these challenges, we propose **R$^{3}$Net**, a novel **rejection-guid
 ## 📂 Code and Data Availability
 
 - **Dataset**: ATR2-HUTD is available at [BaiDuYun link](https://pan.baidu.com/s/1bhDyOUELXLKf85y_NT-smw?pwd=s45g) (Password: `s45g`).
-- **Code**: The implementation of R$^{3}$Net will be made publicly available **upon acceptance of the paper**.
+- **Code**: The implementation of R<sup>3</sup>Net will be made publicly available **upon acceptance of the paper**.
 
 ------
 
